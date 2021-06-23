@@ -1,1 +1,2 @@
 This is the homepage of our fb clone
+Design change in the homepage
